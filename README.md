@@ -10,5 +10,4 @@
 * Full Stack Open's module on Typescript (includes reference to use with Express and React): https://fullstackopen.com/en/part9
 * [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 * Podcast episode from Syntax.FM doing high-level chat on [why/where/how of Typescript](https://syntax.fm/show/324/typescript-fundamentals)
-* [Rules of Type Inference](https://www.typescriptlang.org/docs/handbook/type-inference.html)
 * [Learn x in y minutes where x is TypeScript](https://learnxinyminutes.com/docs/typescript/)
